@@ -8,7 +8,7 @@ A relational database system designed to model airline operations, including fli
 
 Developed as a CPSC324 project, it covers the complete database development lifecycle, from conceptual ER modeling and logical schema design to SQL implementation, data population, and business queries.
 
-![E-R Diagram of the system](docs/ExtendedERmodel.pdf)
+![E-R Diagram of the system](docs/ExtendedERmodel.png)
 
 ## Key Features
 
