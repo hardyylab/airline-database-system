@@ -24,5 +24,5 @@ Microsoft SQL Server · T-SQL · ER Modeling · Relational Database Design
 
 ---
 
-[View User Requirements](docs/user-requirements.md)
+[View User Requirements](docs/UserRequirements.md)
 
